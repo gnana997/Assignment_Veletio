@@ -1,2 +1,7 @@
 # Assignment_Veletio
 Assignment for Veletio
+
+Coding questions:
+1. Write a function takes the time in digital format(9:15, 7:37 etc) and returns the angle b/w the minute and the hour hand. It should return the smaller angle.
+2. You are a delivery person and your task is to deliver packages to different cities. You deliver packages in different trips. You take a flight to a city(c1) and then deliver packages to all the cities connected by road. You then take another flight to deliver packages to the next set of cities and so on until all the packages are delivered.Given a set of roads: [(c1, c2), (c4, c5), (c3, c6).....] and a set of deliveries: [c1, c6, c8, c11…] where c1 means a delivery in c1 and the order of the deliveries don't matter. All the cities may not be connected together so you may have to take multiple flights/trips. Your task to find the minimum number of trips/flights required to complete a given set of deliveries.
+3. You are running a coaching institute and want to divide the new batch of students into different sections. You took an entrance exam and will be dividing students based on the scores of that test.You want to make sections of approximately equal size. You will also make the sections according to the ranks so for example, students with 1-20 ranks in section1, 20-40 ranks in section2 etc.Given an unsorted list of marks of 10000 students [32, 11, 125...]. Your task is to divide these students into 16 sections in linear time i.e. in O(n) complexity or less.
